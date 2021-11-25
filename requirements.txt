@@ -1,0 +1,8 @@
+# Requirements
+pandas
+torch
+mlflow
+xarray
+tqdm
+numpy
+matplotlib
